@@ -1,1 +1,3 @@
-# .github
+# Docklens
+
+![Architecture](./image.png)
